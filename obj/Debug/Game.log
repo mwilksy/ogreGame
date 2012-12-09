@@ -1,0 +1,37 @@
+﻿  GameObject.cpp
+  GameComponent.cpp
+f:\ogrestarter\ogrestarter\gamecode\input.h(77): warning C4482: nonstandard extension used: enum 'OIS::MouseButtonID' used in qualified name
+f:\ogrestarter\ogrestarter\gamecode\input.h(78): warning C4482: nonstandard extension used: enum 'OIS::MouseButtonID' used in qualified name
+f:\ogrestarter\ogrestarter\gamecode\game\gamecomponent.cpp(31): warning C4800: 'GameObject *' : forcing value to bool 'true' or 'false' (performance warning)
+f:\ogrestarter\ogrestarter\gamecode\game\gamecomponent.cpp(30): warning C4101: 'conv' : unreferenced local variable
+f:\ogrestarter\ogrestarter\gamecode\game\gamecomponent.cpp(81): warning C4244: 'argument' : conversion from 'double' to 'Ogre::Real', possible loss of data
+f:\ogrestarter\ogrestarter\gamecode\game\gamecomponent.cpp(82): warning C4244: 'argument' : conversion from 'double' to 'Ogre::Real', possible loss of data
+f:\ogrestarter\ogrestarter\gamecode\game\gamecomponent.cpp(270): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+f:\ogrestarter\ogrestarter\gamecode\game\gamecomponent.cpp(532): warning C4482: nonstandard extension used: enum 'InputMap::MouseButtonID' used in qualified name
+f:\ogrestarter\ogrestarter\gamecode\game\gamecomponent.cpp(543): warning C4482: nonstandard extension used: enum 'InputMap::MouseButtonID' used in qualified name
+f:\ogrestarter\ogrestarter\gamecode\game\gamecomponent.cpp(561): warning C4482: nonstandard extension used: enum 'InputMap::MouseButtonID' used in qualified name
+f:\ogrestarter\ogrestarter\gamecode\game\gamecomponent.cpp(606): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+f:\ogrestarter\ogrestarter\gamecode\game\gamecomponent.cpp(607): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+f:\ogrestarter\ogrestarter\gamecode\game\gamecomponent.cpp(650): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+f:\ogrestarter\ogrestarter\gamecode\game\gamecomponent.cpp(651): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+  WorldLoader.cpp
+f:\ogrestarter\ogrestarter\gamecode\worldloader.cpp(211): warning C4482: nonstandard extension used: enum 'Ogre::Light::LightTypes' used in qualified name
+  UserInterface.cpp
+f:\ogrestarter\ogrestarter\gamecode\input.h(77): warning C4482: nonstandard extension used: enum 'OIS::MouseButtonID' used in qualified name
+f:\ogrestarter\ogrestarter\gamecode\input.h(78): warning C4482: nonstandard extension used: enum 'OIS::MouseButtonID' used in qualified name
+f:\ogrestarter\ogrestarter\gamecode\userinterface.cpp(38): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+f:\ogrestarter\ogrestarter\gamecode\userinterface.cpp(39): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+  Renderer.cpp
+  Message.cpp
+f:\ogrestarter\ogrestarter\gamecode\message.cpp(51): warning C4101: 'conv' : unreferenced local variable
+f:\ogrestarter\ogrestarter\gamecode\message.cpp(82): warning C4101: 'conv' : unreferenced local variable
+  Main.cpp
+  Input.cpp
+f:\ogrestarter\ogrestarter\gamecode\input.h(77): warning C4482: nonstandard extension used: enum 'OIS::MouseButtonID' used in qualified name
+f:\ogrestarter\ogrestarter\gamecode\input.h(78): warning C4482: nonstandard extension used: enum 'OIS::MouseButtonID' used in qualified name
+  Game.cpp
+f:\ogrestarter\ogrestarter\gamecode\input.h(77): warning C4482: nonstandard extension used: enum 'OIS::MouseButtonID' used in qualified name
+f:\ogrestarter\ogrestarter\gamecode\input.h(78): warning C4482: nonstandard extension used: enum 'OIS::MouseButtonID' used in qualified name
+  Generating Code...
+  LINK : F:\ogrestarter\ogrestarter\GameCode\..\bin\Debug\Game.exe not found or not built by the last incremental link; performing full link
+  Game.vcxproj -> F:\ogrestarter\ogrestarter\GameCode\..\bin\Debug\Game.exe
